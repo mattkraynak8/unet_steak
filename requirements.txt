@@ -1,0 +1,9 @@
+dvc
+dvc-gdrive
+numpy
+patchify
+pillow
+scikit-image
+albumentations
+matplotlib
+opencv-python
