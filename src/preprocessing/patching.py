@@ -8,7 +8,7 @@ import logging
 import shutil
 
 class ImagePatcher:
-    def __init__(self, patch_size=(512, 512, 3), step=128):
+    def __init__(self, patch_size=(512, 512, 3), step=512):
         self.patch_size = patch_size
         self.step = step
 
